@@ -4,7 +4,7 @@
 #
 Name     : libmlx4
 Version  : 1.0.6
-Release  : 2
+Release  : 3
 URL      : https://www.openfabrics.org/downloads/mlx4/libmlx4-1.0.6.tar.gz
 Source0  : https://www.openfabrics.org/downloads/mlx4/libmlx4-1.0.6.tar.gz
 Summary  : Mellanox ConnectX InfiniBand HCA Userspace Driver
